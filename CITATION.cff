@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use cpDraw, please cite this software using the metadata in this file."
+title: "cpDraw"
+abstract: "A stand-alone Python command-line program for generating editable circular plastid genome maps from annotated GenBank files."
+type: software
+version: "1.0.0"
+authors:
+  - family-names: "Tsubota"
+    given-names: "Hiromi"
+    affiliation: "Hiroshima University"
+license: MIT
+keywords:
+  - "plastid genome"
+  - "chloroplast genome"
+  - "genome visualization"
+  - "circular genome map"
+  - "GenBank"
+  - "SVG"

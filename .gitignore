@@ -179,3 +179,10 @@ cython_debug/
 #  refer to https://docs.cursor.com/context/ignore-files
 .cursorignore
 .cursorindexingignore
+
+# cpDraw local test outputs
+*_label_report.csv
+!examples/sequence_label_report.csv
+
+# Temporary local files
+*.tmp
