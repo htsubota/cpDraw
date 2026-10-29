@@ -4,6 +4,9 @@ title: "cpDraw"
 abstract: "A stand-alone Python command-line program for generating editable circular plastid genome maps from annotated GenBank files."
 type: software
 version: "1.0.0"
+doi: "10.5281/zenodo.23771064"
+date-released: "2026-10-29"
+repository-code: "https://github.com/htsubota/cpDraw"
 authors:
   - family-names: "Tsubota"
     given-names: "Hiromi"

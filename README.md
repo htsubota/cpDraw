@@ -253,13 +253,11 @@ python cpdraw.py plastome.gb --label-report diagnostics.csv
 
 Citation metadata are provided in `CITATION.cff`.
 
-Until the software DOI and accompanying article are available, cite the software as:
+DOI: https://doi.org/10.5281/zenodo.23771064
 
-```text
-Tsubota H. cpDraw: a stand-alone Python tool for drawing circular plastid genome maps. Version 1.0.0.
-```
+If you use cpDraw, please cite the archived software release:
 
-After archiving the release in Zenodo, add the version-specific DOI to this README and `CITATION.cff`.
+Tsubota H. (2026) cpDraw: a stand-alone Python tool for drawing circular plastid genome maps. Version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.23771064
 
 ## License
 
