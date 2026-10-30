@@ -279,8 +279,9 @@ cpDraw/
 ├── CITATION.cff
 ├── requirements.txt
 └── examples/
-    ├── sample.gb
-    └── sample.svg
+    ├── sequence.gb
+    ├── sequence.svg
+    └── sequence_label_report.csv
 ```
 
 ## Tested environment
