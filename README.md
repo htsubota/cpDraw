@@ -127,7 +127,8 @@ The public repository includes a sample GenBank file and its cpDraw output:
 ```text
 examples/
 ├── sample.gb
-└── sample.svg
+├── sample.svg
+└── sequence_label_report.csv.
 ```
 
 Generate the sample map with:
@@ -259,6 +260,21 @@ If you use cpDraw, please cite the archived software release:
 
 Tsubota H. (2026) cpDraw: a stand-alone Python tool for drawing circular plastid genome maps. Version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.23771064
 
+## Acknowledgements
+
+The author thanks Dr. Phan Quynh Chi and Dr. Miho Nakahara-Tsubota for testing cpDraw with plastid genome data and for providing helpful comments on its graphical output during development. The author also thanks Dr. Yuya Inoue for providing the *Timmiella anomala* plastid genome data used for testing cpDraw and as the example dataset distributed with the program.
+
+## Supporting research and humanitarian activities
+
+cpDraw is freely available under the MIT License. If you find this software useful, please consider supporting scientific research, natural history collections, or humanitarian activities through donations to universities, museums, botanical institutions, or organizations of the International Red Cross and Red Crescent Movement.
+
+Such donations are entirely voluntary and are not required to use cpDraw.
+
+## License
+
+cpDraw is distributed under the MIT License.
+
+
 ## License
 
 cpDraw is distributed under the MIT License.
@@ -291,6 +307,10 @@ cpDraw v1.0.0 was tested with:
 - Windows 11
 - Python 3.12.1
 - Biopython 1.83
+
+- Linux Mint 22.3
+- Python 3.9.18
+- Biopython 1.85
 
 ## Contact
 
