@@ -126,40 +126,40 @@ The public repository includes a sample GenBank file and its cpDraw output:
 
 ```text
 examples/
-├── sample.gb
-├── sample.svg
+├── sequence.gb
+├── sequence.svg
 └── sequence_label_report.csv.
 ```
 
 Generate the sample map with:
 
 ```bash
-python cpdraw.py examples/sample.gb
+python cpdraw.py examples/sequence.gb
 ```
 
 Generate the sample map with the genomic coordinate ruler:
 
 ```bash
-python cpdraw.py examples/sample.gb --show-scale
+python cpdraw.py examples/sequence.gb --show-scale
 ```
 
 Generate the optional diagnostic CSV using the automatic report name:
 
 ```bash
-python cpdraw.py examples/sample.gb --label-report
+python cpdraw.py examples/sequence.gb --label-report
 ```
 
 This creates:
 
 ```text
-examples/sample.svg
-examples/sample_label_report.csv
+examples/sequence.svg
+examples/sequence_label_report.csv
 ```
 
 To avoid overwriting the distributed sample SVG while testing other settings, specify another output name:
 
 ```bash
-python cpdraw.py examples/sample.gb -o sample_test.svg --show-scale
+python cpdraw.py examples/sequence.gb -o sequence_test.svg --show-scale
 ```
 
 ## Input
