@@ -262,7 +262,7 @@ Tsubota H. (2026) cpDraw: a stand-alone Python tool for drawing circular plastid
 
 ## Acknowledgements
 
-The author thanks Dr. Phan Quynh Chi and Dr. Miho Nakahara-Tsubota for testing cpDraw with plastid genome data and for providing helpful comments on its graphical output during development. The author also thanks Dr. Yuya Inoue for providing the *Timmiella anomala* plastid genome data ([LC761301]https://www.ncbi.nlm.nih.gov/nuccore/LC761301.1/) used for testing cpDraw and as the example dataset distributed with the program.
+The author thanks Dr. Phan Quynh Chi and Dr. Miho Nakahara-Tsubota for testing cpDraw with plastid genome data and for providing helpful comments on its graphical output during development. The author also thanks Dr. Yuya Inoue for providing the *Timmiella anomala* plastid genome data ([LC761301](https://www.ncbi.nlm.nih.gov/nuccore/LC761301.1/)) used for testing cpDraw and as the example dataset distributed with the program.
 
 ## Supporting research and humanitarian activities
 
