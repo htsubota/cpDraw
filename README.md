@@ -274,11 +274,6 @@ Such donations are entirely voluntary and are not required to use cpDraw.
 
 cpDraw is distributed under the MIT License.
 
-
-## License
-
-cpDraw is distributed under the MIT License.
-
 Copyright (c) 2026 Hiromi Tsubota
 
 See `LICENSE` for the complete license text.
