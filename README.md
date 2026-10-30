@@ -307,6 +307,10 @@ cpDraw v1.0.0 was tested with:
   - Python 3.9.18
   - Biopython 1.85
 
+- Linux (ARM64/aarch64) Ubuntu-base
+  - Python 3.14.10
+  - Biopython 1.88
+
 ## Contact
 
 Hiromi Tsubota  
