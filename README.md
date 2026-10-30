@@ -300,12 +300,12 @@ cpDraw/
 cpDraw v1.0.0 was tested with:
 
 - Windows 11
-- Python 3.12.1
-- Biopython 1.83
+  - Python 3.12.1
+  - Biopython 1.83
 
 - Linux Mint 22.3
-- Python 3.9.18
-- Biopython 1.85
+  - Python 3.9.18
+  - Biopython 1.85
 
 ## Contact
 
