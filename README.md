@@ -258,7 +258,8 @@ DOI: https://doi.org/10.5281/zenodo.23771064
 
 If you use cpDraw, please cite the archived software release:
 
-Tsubota H. (2026) cpDraw: a stand-alone Python tool for drawing circular plastid genome maps. Version 1.0.0. Zenodo. https://doi.org/10.5281/zenodo.23771064
+Tsubota, H.  2026a.  cpDraw (Version v1.0.0) [Computer software].  Zenodo.  https://doi.org/10.5281/zenodo.23771064.
+Tsubota, H.  2026b.  cpDraw: a Python-based tool for generating editable circular plastid genome maps.  Hikobia (submitted).
 
 ## Acknowledgements
 
