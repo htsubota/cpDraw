@@ -1,4 +1,3 @@
-<img width="5000" height="5000" alt="example" src="https://github.com/user-attachments/assets/ff85e542-af1f-45a9-9afd-b14da8f9eb29" />
 # cpDraw
 
 **cpDraw v1.0.0** is a stand-alone Python command-line program for generating editable circular plastid genome maps from annotated GenBank files. It runs locally and produces SVG output without requiring a web server.
@@ -20,6 +19,8 @@ cpDraw was developed from the former `plastome_draw` codebase. SVG metadata and 
 - Optional genomic ruler with 1-kb ticks, 5-kb medium ticks, and 10-kb labels
 - Editable SVG output with embedded provenance metadata
 - Optional label-placement diagnostic CSV
+
+<img width="500" height="500" alt="example" src="https://github.com/user-attachments/assets/ff85e542-af1f-45a9-9afd-b14da8f9eb29" />
 
 ## Requirements
 
